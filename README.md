@@ -44,7 +44,7 @@
 
 [![Email](https://img.shields.io/badge/Email-se_hyxiong%40163.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:se_hyxiong@163.com)
 [![Blog](https://img.shields.io/badge/Blog-gataccay.com-0ea5e9?style=flat-square&logo=rss&logoColor=white)](https://www.gataccay.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SelfCard-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://github.com/Bin-hy/SelfCard)
+[![Portfolio](https://img.shields.io/badge/Portfolio-SelfCard-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://selfcard.pages.dev)
 
 </div>
 
