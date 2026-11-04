@@ -25,7 +25,7 @@
 - 🎯 **Backend Engineering × AI Agent × RAG**
 - 🧑‍💻 **Go / Python**
 - 🤖 **Agent / RAG / MCP / Multimodal AI**
-- ⚙️ **Gin / MySQL / Redis / Kafka / Docker**
+- ⚙️ **Gin / MySQL / Redis / Kafka / Elastic Search / Docker / Kubernetes**
 
 ---
 
