@@ -14,7 +14,7 @@
 [![Focus](https://img.shields.io/badge/Focus-Agent%20%2F%20RAG%20%2F%20Backend-22c55e?style=flat-square)](#-what-im-learning)
 [![Go](https://img.shields.io/badge/Main-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#-tech-stack)
 
-[作品集 · SelfCard](https://github.com/Bin-hy/SelfCard) · [博客](https://www.gataccay.com) · [邮箱](mailto:se_hyxiong@163.com)
+[作品集 · SelfCard](https://github.com/Bin-hy/SelfCard) · [博客](https://www.gataccay.com) · [邮箱](mailto:github@binhy.email)
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-se_hyxiong%40163.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:se_hyxiong@163.com)
+[![Email](https://img.shields.io/badge/Email-github%40binhy.email-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:github@binhy.email)
 [![Blog](https://img.shields.io/badge/Blog-gataccay.com-0ea5e9?style=flat-square&logo=rss&logoColor=white)](https://www.gataccay.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-SelfCard-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://selfcard.pages.dev)
 
